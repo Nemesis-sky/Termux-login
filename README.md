@@ -5,9 +5,9 @@ apt update
 
 apt-get install git
 
-git clone 
+git clone https://github.com/Nemesis-sky/Termux-login.git
 
-cd T-login
+cd Termux-login
 
 chmod +x install.sh
 
